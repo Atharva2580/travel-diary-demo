@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to the journey
+=======
+Welcome to the journey to the city san fancisco 
+>>>>>>> 3fcaf4674a4d2b3758755b1faaa47568f136d44c
